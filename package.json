@@ -15,7 +15,9 @@
     "react-dom": "^16.9.0",
     "react-helmet": "^5.2.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  },
   "keywords": [
     "gatsby",
     "sass",
